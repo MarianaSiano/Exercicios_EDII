@@ -1,8 +1,5 @@
-# Ignorar arquivos gerados e csv:
-*.csv
-*.bin
+# Ignorar arquivos gerados:
 *.exe
-*.txt
 
 # Ignorar arquivos de ambiente de desenvolvimento:
 .vscode/
